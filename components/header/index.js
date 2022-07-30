@@ -6,6 +6,7 @@ const Header = () => {
 			<div className={styles.header__logo}>
 				<Link href={'/'}>Beer with love ❤️</Link>
 			</div>
+
 		</header>
 	);
 };
